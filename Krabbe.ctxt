@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Krabbe()
+comment0.text=\n\ Hier\ legt\ ihr\ fest,\ was\ die\ Krabbe\ tuen\ soll.\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ suchUndEss()
+comment2.text=\n\ Checkt\ ob\ ein\ tier\ (oder\ item)\ unter\ mir\ liegt,\ es\ also\ gesehen\ wird,\ und\ isst\ es.\n
+comment3.params=
+comment3.target=void\ bewegen()
+comment3.text=\n\ Bewegt\ sich\ je\ nach\ wert\ der\ variable\ 'vorwaerts'\ nach\ vorwaerts\ oder\ rueckwaerts,\ und\ ueberprueft\ den\ aktuellen\ status\ z.B.\ ob\ der\ effekt\ des\ Apfels\ noch\ wirkt.\n
+comment4.params=
+comment4.target=void\ testeTasteGedrueckt()
+comment4.text=\n\ Testet\ ob\ eine\ Taste\ die\ wir\ ueberwachen\ gedrueckt\ ist,\ und\ tut\ entsprechend\ etwas\ um\ die\ krabbe\ zu\ steuern.\n
+comment5.params=
+comment5.target=void\ randTestenUndDrehen()
+comment5.text=\n\ Testet\ ob\ die\ Krabbe\ am\ rand\ ist,\ und\ dreht\ falls\ ja\ um\ +10*\n
+comment6.params=wahrscheinlichkeit
+comment6.target=void\ zufallsDrehung(int)
+comment6.text=\n\ Dreht\ mit\ der\ angegebenen\ {@link\ wahrscheinlichkeit}\ um\ eine\ zufallszahl\ zwischen\ -20\ und\ +20\n\ @param\ wahrscheinlichkeit\n
+comment7.params=wahrscheinlichkeit
+comment7.target=void\ richtungAendern(int)
+comment7.text=\n\ Aendert\ mit\ der\ angegebenen\ {@link\ wahrscheinlichkeit}\ die\ richtung\n\ @param\ wahrscheinlichkeit\n
+numComments=8

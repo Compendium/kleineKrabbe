@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wurm()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Wurm\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ die()
+comment3.params=
+comment3.target=boolean\ istAbgetaucht()
+comment3.text=\n\ Gibt\ wieder\ ob\ der\ wurm\ abgetaucht\ ist\n\ @return\ \ \ \ \ true\ wenn\ wurm\ abgetaucht\ ist\n
+comment4.params=wahrscheinlichkeit
+comment4.target=void\ abtauchenOderAuftauchen(int)
+comment4.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ @param\ \ wahrscheinlichkeit\ die\ wahrscheinlichkeit\ mit\ der\ der\ wurm\ etwas\ tuen\ soll\n\ @return\ \ \ \ \ nothing\n
+numComments=5
